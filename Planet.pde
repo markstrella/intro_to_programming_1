@@ -17,7 +17,7 @@ public class Planet{
     loc[0] = 100;
     loc[1] = 200;
     myColor = color(255,255,0);
-    mySize = 50;
+    mySize = 10;
     dx = dy = 10;
   }
   
